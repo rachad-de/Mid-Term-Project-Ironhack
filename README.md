@@ -4,7 +4,7 @@ Mid Term Project
 
 Members of the group: Julia Marques; Rachad Raad
 
-Goal:
+Click here to access:  https://public.tableau.com/app/profile/julia3551/viz/BiFinal/Story1?publish=yes
 
 It is a BI project based on the Olist dataset.
 
